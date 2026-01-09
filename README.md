@@ -73,27 +73,19 @@
 
 ---
 
-## 📊 GitHub Contributions
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NajeebSultan&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub contribution streak" />
-</p>
-
----
-
 ## 📫 Let’s Connect
 
 <p align="center">
   <a href="mailto:najeebsultan070@gmail.com" target="_blank">
     <img
       src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email Me"
+      alt="Email Me"  style="border-radius: 8px;"
     />
   </a>
   <a href="https://github.com/NajeebSultan" target="_blank">
     <img
       src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub Profile"
+      alt="GitHub Profile"  style="border-radius: 8px;"
     />
   </a>
 </p>
