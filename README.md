@@ -15,41 +15,6 @@
 
 ---
 
-## 🧠 Technical Snapshot
-
-<div align="center">
-
-<table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>JavaScript · TypeScript · HTML · CSS</td>
-  </tr>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>React.js · Angular · Redux Toolkit · RxJS · Responsive layouts · Component‑driven architecture</td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>Node.js · Nest.js · Express.js · RESTful APIs · GraphQL · Auth (JWT, sessions)</td>
-  </tr>
-  <tr>
-    <td><strong>Databases</strong></td>
-    <td>MongoDB · PostgreSQL · SQL/NoSQL data modeling</td>
-  </tr>
-  <tr>
-    <td><strong>Cloud & Infra</strong></td>
-    <td>GCP · Firebase · AWS (Lambda, EC2, S3) · Kubernetes · Docker</td>
-  </tr>
-  <tr>
-    <td><strong>Tools & Practices</strong></td>
-    <td>Microservices · Service Mesh (Istio) · Git/GitHub · GitLab CI/CD · API design · Postman · Agile/Scrum · Testing (Jest, basic integration) · Code reviews & best practices</td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## 🛠 Tech Stack
 
 <p align="center">
@@ -70,6 +35,10 @@
   <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=fff" />
+  <br/>
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" />
   <br/>
   <!-- Cloud / DevOps -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=fff" />
