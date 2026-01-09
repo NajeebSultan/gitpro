@@ -2,6 +2,10 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+clean+and+modern+web+experiences;Full+Stack+Developer+%7C+JavaScript+%7C+TypeScript;Always+learning+and+shipping+projects" alt="Typing animation" />
+</p>
+
+<p align="center">
   Turning ideas into clean, scalable, and user‑friendly web experiences.
 </p>
 
@@ -12,6 +16,15 @@
 - 🔭 Building **end‑to‑end web applications** – from polished UIs to reliable backend services.
 - 🧠 Interested in **clean architecture, performance, and great developer experience**.
 - 🌱 Exploring **cloud‑native patterns, testing, and system design** to level up as a full stack engineer.
+
+---
+
+## ✨ A Few Fun Facts
+
+- 🎧 Often coding with music while refining UI details and micro‑interactions.  
+- 🧩 Enjoy breaking complex problems into **simple, reusable components**.  
+- 🌍 Love exploring new tools, frameworks, and best practices in the JavaScript ecosystem.  
+- 📚 Frequently learning from open‑source projects and real‑world production code.  
 
 ---
 
