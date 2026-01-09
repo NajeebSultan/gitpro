@@ -128,4 +128,3 @@ _(You can adapt this section to match the exact tech used in your portfolio app.
 - 📧 Email: **[najeebsultan070@gmail.com](mailto:najeebsultan070@gmail.com)**  
 - 💼 GitHub: **[github.com/NajeebSultan](https://github.com/NajeebSultan)**  
 
-_(Add LinkedIn, portfolio URL, or other links here when you’re ready.)_
