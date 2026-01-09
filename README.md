@@ -84,17 +84,16 @@
 ## 📫 Let’s Connect
 
 <p align="center">
-  <a href="mailto:najeebsultan070@gmail.com" target="_blank" style="text-decoration: none;">
-    <span style="display: inline-flex; align-items: center; gap: 8px; padding: 8px 18px; border-radius: 999px; background: #D14836; color: #ffffff; font-weight: 500; border: 1px solid #f97373; box-shadow: 0 0 0 1px #111827;">
-      <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="18" />
-      Email Me
-    </span>
+  <a href="mailto:najeebsultan070@gmail.com" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email Me"
+    />
   </a>
-  <span style="display: inline-block; width: 12px;"></span>
-  <a href="https://github.com/NajeebSultan" target="_blank" style="text-decoration: none;">
-    <span style="display: inline-flex; align-items: center; gap: 8px; padding: 8px 18px; border-radius: 999px; background: #111827; color: #f9fafb; font-weight: 500; border: 1px solid #4b5563; box-shadow: 0 0 0 1px #000000;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="18" />
-      GitHub
-    </span>
+  <a href="https://github.com/NajeebSultan" target="_blank">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub Profile"
+    />
   </a>
 </p>
