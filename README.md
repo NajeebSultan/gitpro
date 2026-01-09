@@ -9,36 +9,48 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m focused on building **end‑to‑end web applications** – from pixel‑perfect UIs to robust backend APIs.
-- 🧠 Passionate about **clean architecture, performance, and developer experience**.
-- 🌱 Constantly learning more about **cloud‑native development, testing, and system design**.
-- 🎯 Goal: Grow as a **full stack engineer** who can take products from concept to production.
+- 🔭 Building **end‑to‑end web applications** – from polished UIs to reliable backend services.
+- 🧠 Interested in **clean architecture, performance, and great developer experience**.
+- 🌱 Exploring **cloud‑native patterns, testing, and system design** to level up as a full stack engineer.
 
 ---
 
-## 🧠 Technical Skills
+## 🧠 Technical Snapshot
 
-**Languages**  
-JavaScript, TypeScript, HTML, CSS
+<div align="center">
 
-**Frontend**  
-React.js, Angular, Redux Toolkit, RxJS, Responsive UI, Component‑driven architecture
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>JavaScript · TypeScript · HTML · CSS</td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>React.js · Angular · Redux Toolkit · RxJS · Responsive layouts · Component‑driven architecture</td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>Node.js · Nest.js · Express.js · RESTful APIs · GraphQL · Auth (JWT, sessions)</td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>MongoDB · PostgreSQL · SQL/NoSQL data modeling</td>
+  </tr>
+  <tr>
+    <td><strong>Cloud & Infra</strong></td>
+    <td>GCP · Firebase · AWS (Lambda, EC2, S3) · Kubernetes · Docker</td>
+  </tr>
+  <tr>
+    <td><strong>Tools & Practices</strong></td>
+    <td>Microservices · Service Mesh (Istio) · Git/GitHub · GitLab CI/CD · API design · Postman · Agile/Scrum · Testing (Jest, basic integration) · Code reviews & best practices</td>
+  </tr>
+</table>
 
-**Backend**  
-Node.js, Nest.js, Express.js, RESTful APIs, GraphQL, Authentication & Authorization (JWT, sessions)
-
-**Databases**  
-MongoDB, PostgreSQL, SQL/NoSQL data modeling
-
-**Cloud / Infrastructure**  
-GCP, Firebase, AWS (Lambda, EC2, S3), Kubernetes, Docker
-
-**Tools & Practices**  
-Microservices, Service Mesh (Istio), Git & GitHub, GitLab CI/CD, API design, Postman, Agile/Scrum, Testing (Jest, basic integration tests), Code reviews & best practices
+</div>
 
 ---
 
-## 🛠 Tech Stack (at a glance)
+## 🛠 Tech Stack
 
 <p align="center">
   <!-- Languages -->
@@ -77,19 +89,10 @@ Microservices, Service Mesh (Istio), Git & GitHub, GitLab CI/CD, API design, Pos
 
 ## 🌱 Currently Exploring
 
-- Deepening **system design** and **scalable microservices** patterns.  
+- **Scalable architectures** and **microservices** patterns.  
 - Writing more **testable** and **observable** services (logging, metrics, tracing).  
 - Building **production‑ready full stack apps** with modern tooling and CI/CD.  
-- Exploring **cloud‑native architectures** on AWS / GCP / Kubernetes.
-
----
-
-## 💡 What I Believe In
-
-- 🤝 **Collaboration** over isolation – great products are built by great teams.  
-- 🧹 **Clean, maintainable code** that is easy for others (and my future self) to understand.  
-- 📚 **Lifelong learning** – always improving, one commit at a time.  
-- 💬 **Open communication & feedback**, especially during code reviews.  
+- **Cloud‑native** approaches on AWS / GCP / Kubernetes.
 
 ---
 
@@ -97,29 +100,7 @@ Microservices, Service Mesh (Istio), Git & GitHub, GitLab CI/CD, API design, Pos
 
 - Full stack **web applications** (frontend + backend).  
 - **APIs, integrations, and dashboards** that solve real problems.  
-- **Open‑source projects** related to web development, tooling, or dev productivity.  
-
----
-
-## 📌 This Portfolio Repository
-
-This repository contains the source code for my personal developer portfolio.
-
-- 🔗 **Repo:** [NajeebSultan/Portfolio](https://github.com/NajeebSultan/Portfolio)  
-- 🧾 Showcases my **projects, skills, and experience** in a clean and modern layout.  
-- 💻 Built with a focus on **performance, responsiveness, and developer‑friendly structure**.
-
-_(You can adapt this section to match the exact tech used in your portfolio app.)_
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NajeebSultan&show_icons=true&theme=tokyonight" alt="Najeeb Sultan GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajeebSultan&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+- **Open‑source projects** related to web development, tooling, or developer productivity.  
 
 ---
 
