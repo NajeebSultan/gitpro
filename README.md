@@ -77,10 +77,7 @@
 
 <p align="center">
   <a href="mailto:najeebsultan070@gmail.com" target="_blank">
-    <img
-      src="https://img.shields.io/badge/-Email%20Me-d14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827"
-      alt="Email Me"
-    />
+    <img src="./image.png" alt="Email" height="42" />
   </a>
   <a href="https://github.com/NajeebSultan" target="_blank">
     <img
