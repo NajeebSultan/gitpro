@@ -77,15 +77,9 @@
 
 <p align="center">
   <a href="mailto:najeebsultan070@gmail.com" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email Me"
-    />
+    <img src="./image.png" alt="Email" style="height:42px;border-radius:999px;" />
   </a>
   <a href="https://github.com/NajeebSultan" target="_blank">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub Profile"
-    />
+    <img src="./github-button.png" alt="GitHub" style="height:42px;border-radius:999px;" />
   </a>
 </p>
