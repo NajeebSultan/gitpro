@@ -73,13 +73,19 @@
 
 ---
 
-##  Let’s Connect
+## 📫 Let’s Connect
 
 <p align="center">
   <a href="mailto:najeebsultan070@gmail.com" target="_blank">
-    <img src="./image.png" alt="Email" height="42" />
+    <img
+      src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email Me"
+    />
   </a>
   <a href="https://github.com/NajeebSultan" target="_blank">
-    <img src="./github-button.png" alt="GitHub" height="42" />
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub Profile"
+    />
   </a>
 </p>
