@@ -73,13 +73,6 @@
 
 ---
 
-## � GitHub Contributions (2025)
-
-<p align="center">
-  <img src="assets/github-2025-contributions.png" alt="GitHub contribution graph for 2025" />
-</p>
-
----
 
 ## �📫 Let’s Connect
 
