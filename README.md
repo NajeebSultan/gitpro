@@ -73,7 +73,15 @@
 
 ---
 
-## 📫 Let’s Connect
+## � GitHub Contributions (2025)
+
+<p align="center">
+  <img src="assets/github-2025-contributions.png" alt="GitHub contribution graph for 2025" />
+</p>
+
+---
+
+## �📫 Let’s Connect
 
 <p align="center">
   <a href="mailto:najeebsultan070@gmail.com" target="_blank">
