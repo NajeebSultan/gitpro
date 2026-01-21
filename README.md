@@ -65,10 +65,10 @@
 
 ---
 
-## 📈 Coding time in the last year
+## 📈 Coding time in the last month
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NajeebSultan&layout=compact&theme=tokyonight&range=last_year&cache_seconds=1800" alt="Coding time stats (last year)" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NajeebSultan&layout=compact&theme=tokyonight&range=last_30_days&cache_seconds=1800&v=3" alt="Coding time stats (last month)" />
 </p>
 
 ---
