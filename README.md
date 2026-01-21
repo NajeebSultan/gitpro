@@ -71,15 +71,14 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NajeebSultan&layout=compact&theme=tokyonight&range=last_30_days&cache_seconds=1800&v=3" alt="Coding time stats (last month)" />
 </p>
 
----
 
 ## 📫 Let’s Connect
 
 <p align="center">
   <a href="mailto:najeebsultan070@gmail.com" target="_blank">
-    <img src="./image.png" alt="Email" style="height:42px;border-radius:18px;" />
+    <img src="./image.png" alt="Email" style="height:42px;border-radius:18px;border:0;" />
   </a>
   <a href="https://github.com/NajeebSultan" target="_blank">
-    <img src="./github-button.png" alt="GitHub" style="height:42px;border-radius:18px;" />
+    <img src="./github-button.png" alt="GitHub" style="height:42px;border-radius:18px;border:0;" />
   </a>
 </p>
