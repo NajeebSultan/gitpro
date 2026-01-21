@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=E5E587&center=true&vCenter=true&width=600&lines=Hello+hello;I'm+Najeeb+Sultan%2C+a+Full+Stack+Developer" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E5E587&center=true&vCenter=true&width=600&lines=Hello+hello;I'm+Najeeb+Sultan%2C+a+Full+Stack+Developer" alt="Typing animation" />
 </p>
 
 ---
