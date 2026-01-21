@@ -68,9 +68,9 @@
 
 <p align="center">
   <a href="mailto:najeebsultan070@gmail.com" target="_blank" style="display:inline-block;border-radius:999px;overflow:hidden;">
-    <img src="./image.png" alt="Email" style="height:42px;display:block;border:0;" />
+    <img src="./image.png" alt="Email" style="height:42px;display:block;border-radius:999px;border:0;" />
   </a>
   <a href="https://github.com/NajeebSultan" target="_blank" style="display:inline-block;border-radius:999px;overflow:hidden;">
-    <img src="./github-button.png" alt="GitHub" style="height:42px;display:block;border:0;" />
+    <img src="./github-button.png" alt="GitHub" style="height:42px;display:block;border-radius:999px;border:0;" />
   </a>
 </p>
