@@ -77,9 +77,9 @@
 
 <p align="center">
   <a href="mailto:najeebsultan070@gmail.com" target="_blank">
-    <img src="./image.png" alt="Email" style="height:42px;border-radius:999px;" />
+    <img src="./image.png" alt="Email" style="height:42px;border-radius:18px;" />
   </a>
   <a href="https://github.com/NajeebSultan" target="_blank">
-    <img src="./github-button.png" alt="GitHub" style="height:42px;border-radius:999px;" />
+    <img src="./github-button.png" alt="GitHub" style="height:42px;border-radius:18px;" />
   </a>
 </p>
