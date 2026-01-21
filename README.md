@@ -65,7 +65,7 @@
 
 ---
 
-## 📈 Coding time in the last month
+## 📈 Coding time 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NajeebSultan&layout=compact&theme=tokyonight&range=last_30_days&cache_seconds=1800&v=3" alt="Coding time stats (last month)" />
@@ -73,17 +73,13 @@
 
 ---
 
-
-## �📫 Let’s Connect
+##  Let’s Connect
 
 <p align="center">
   <a href="mailto:najeebsultan070@gmail.com" target="_blank">
     <img src="./image.png" alt="Email" height="42" />
   </a>
   <a href="https://github.com/NajeebSultan" target="_blank">
-    <img
-      src="https://img.shields.io/badge/-GitHub-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=111827"
-      alt="GitHub Profile"
-    />
+    <img src="./github-button.png" alt="GitHub" height="42" />
   </a>
 </p>
