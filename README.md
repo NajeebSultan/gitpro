@@ -48,15 +48,6 @@
 
 ---
 
-## 🌱 Currently Exploring
-
-- **Scalable architectures** and **microservices** patterns.  
-- Writing more **testable** and **observable** services (logging, metrics, tracing).  
-- Building **production‑ready full stack apps** with modern tooling and CI/CD.  
-- **Cloud‑native** approaches on AWS / GCP / Kubernetes.
-
----
-
 ## 🤝 Open to Collaborate On
 
 - Full stack **web applications** (frontend + backend).  
@@ -71,14 +62,15 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NajeebSultan&layout=compact&theme=tokyonight&range=last_30_days&cache_seconds=1800&v=3" alt="Coding time stats (last month)" />
 </p>
 
+---
 
 ## 📫 Let’s Connect
 
 <p align="center">
-  <a href="mailto:najeebsultan070@gmail.com" target="_blank">
-    <img src="./image.png" alt="Email" style="height:42px;border-radius:18px;border:0;" />
+  <a href="mailto:najeebsultan070@gmail.com" target="_blank" style="display:inline-block;border-radius:999px;overflow:hidden;">
+    <img src="./image.png" alt="Email" style="height:42px;display:block;border:0;" />
   </a>
-  <a href="https://github.com/NajeebSultan" target="_blank">
-    <img src="./github-button.png" alt="GitHub" style="height:42px;border-radius:18px;border:0;" />
+  <a href="https://github.com/NajeebSultan" target="_blank" style="display:inline-block;border-radius:999px;overflow:hidden;">
+    <img src="./github-button.png" alt="GitHub" style="height:42px;display:block;border:0;" />
   </a>
 </p>
