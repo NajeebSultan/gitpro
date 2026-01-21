@@ -68,7 +68,7 @@
 ## 📈 Coding time in the last month
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NajeebSultan&layout=compact&theme=tokyonight" alt="Coding time stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NajeebSultan&layout=compact&theme=tokyonight&range=last_7_days&cache_seconds=1800" alt="Coding time stats" />
 </p>
 
 ---
