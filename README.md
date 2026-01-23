@@ -15,10 +15,9 @@
 
 ## ✨ A Few Fun Facts
 
-- 🎧 Often coding with music while refining UI details and micro‑interactions.  
-- 🧩 Enjoy breaking complex problems into **simple, reusable components**.  
-- 🌍 Love exploring new tools, frameworks, and best practices in the JavaScript ecosystem.  
-- 📚 Frequently learning from open‑source projects and real‑world production code.  
+**Coding with music** `🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ 20%`  
+**Pixel‑perfect UI obsession** `🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ 80%`  
+**Refactoring for fun** `🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%`  
 
 ---
 
