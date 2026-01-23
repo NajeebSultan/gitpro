@@ -15,9 +15,9 @@
 
 ## ✨ A Few Fun Facts
 
-**Coding with music** `🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ 20%`  
-**Pixel‑perfect UI obsession** `🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ 80%`  
-**Refactoring for fun** `🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%`  
+**Coding with music** `🟦🟦 20%`  
+**Pixel‑perfect UI obsession** `🟪🟪🟪🟪🟪🟪🟪🟪 80%`  
+**Refactoring for fun** `🟩🟩🟩🟩🟩🟩🟩 70%`  
 
 
 ---
